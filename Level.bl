@@ -9,4 +9,4 @@ put(18,1,6) WHITEGLOW (6,0,30);
 put(12,1,6) WHITEGLOW (0,0,24);
 put(12,1,6) WHITEGLOW (18,0,24);
 put(12,1,6) WHITEGLOW (18,0,18);
-show "ENEMY";
+show "the ENEMY";
