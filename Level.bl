@@ -1,0 +1,12 @@
+open Level_5;
+
+
+build (36,10,48);
+put(36,1,48) GREEN (0,0,0);
+put(6,1,6) WHITEGLOW (0,0,36);
+put(6,1,6) WHITEGLOW (30,0,36);
+put(18,1,6) WHITEGLOW (6,0,30);
+put(12,1,6) WHITEGLOW (0,0,24);
+put(12,1,6) WHITEGLOW (18,0,24);
+put(12,1,6) WHITEGLOW (18,0,18);
+show "ENEMY";
